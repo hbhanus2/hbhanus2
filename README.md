@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="10" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
