@@ -1,5 +1,5 @@
 <h2 align="center">Heyy I am Harsh 👋 What's Up?</h2>
-<h4 align="left">I am currently trying to understand and learn various things.And these are some things I have learnt.Feel free to connect if you have any questions</h4>
+<h4 align="left">I am constantly trying to understand and learn various things.And these are some things I have learnt.Feel free to connect if you have any questions</h4>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="10" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
