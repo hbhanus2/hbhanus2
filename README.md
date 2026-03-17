@@ -1,10 +1,14 @@
 <h2 align="center">Heyy I am Harsh 👋 What's Up?</h2>
+<h4 align="left">I am currently trying to understand and learn various things.And these are some things I have learnt.Feel free to connect if you have any questions</h4>
+###
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
 
 ###
 
 
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
